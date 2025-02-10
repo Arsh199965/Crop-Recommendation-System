@@ -2,7 +2,7 @@
 
 ## 🌱 Overview
 
-The **Crop Recommendation System** is a machine learning-based web application that suggests the best crop to cultivate based on various environmental factors. This project leverages **Random Forest, Decision Tree, and XGBoost** models to provide accurate crop recommendations. The frontend is built with **React.js**, while the backend is powered by **Flask**.
+The **Crop Recommendation System** is a machine learning-based web application that suggests the best crop to cultivate based on various environmental factors. This project leverages **Random Forest Classifier** models to provide accurate crop recommendations. The frontend is built with **React.js**, while the backend is powered by **Flask**.
 
 ## 🚀 Features
 
@@ -11,7 +11,6 @@ The **Crop Recommendation System** is a machine learning-based web application t
   - Temperature and humidity
   - Soil pH level
   - Rainfall
-- Uses an **ensemble learning approach** combining Random Forest, Decision Tree, and XGBoost for better accuracy.
 - Interactive frontend with a user-friendly UI.
 - API-based architecture to allow easy integration with other platforms.
 
@@ -40,7 +39,7 @@ The **Crop Recommendation System** is a machine learning-based web application t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crop-recommendation.git
+   git clone https://github.com/arsh199965/crop-recommendation-system.git
    cd crop-recommendation/backend
    ```
 2. Create a virtual environment (optional but recommended):
