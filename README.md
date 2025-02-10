@@ -67,9 +67,9 @@ The **Crop Recommendation System** is a machine learning-based web application t
    ```bash
    npm install
    ```
-3. Start the React app:
+3. Start the Vite React app:
    ```bash
-   npm start
+   npm run dev
    ```
    The app should be running at `http://localhost:3000/`
 
