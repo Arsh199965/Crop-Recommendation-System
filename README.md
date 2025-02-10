@@ -18,7 +18,7 @@ The **Crop Recommendation System** is a machine learning-based web application t
 
 ### Frontend:
 
-- **React.js** (with Axios for API communication)
+- **React.js**
 - Tailwind CSS for styling
 
 ### Backend:
