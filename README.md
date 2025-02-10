@@ -40,7 +40,7 @@ The **Crop Recommendation System** is a machine learning-based web application t
 1. Clone the repository:
    ```bash
    git clone https://github.com/arsh199965/crop-recommendation-system.git
-   cd crop-recommendation/backend
+   cd crop-recommendation-system/backend
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
